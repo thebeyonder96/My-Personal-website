@@ -1,0 +1,30 @@
+header{
+    background-color: #242f9b;
+    color: #ffffff;
+    width: 100%;
+    height: 80px;
+    align-items: center;
+}
+h2{
+    padding-left: 2rem;
+}
+section{
+    background-color: #dbdffd;
+}
+h5{
+    color: #9ce3a8;
+}
+h1{
+    width: 100%;
+ 
+}
+body{
+    background-color: #dbdffd;
+}
+footer{
+    background: #fde7ea;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
